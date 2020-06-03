@@ -1,2 +1,0 @@
-# MKDecision
-Created with CodeSandbox
